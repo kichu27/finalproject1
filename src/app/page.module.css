@@ -1,0 +1,59 @@
+
+
+
+
+
+
+  /* new styles */
+
+  .but {
+
+
+height: 60px ;
+width: 120px ;
+margin: 20px;
+border: none;
+border-radius: 50px;
+background-color: #ffffff;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size: 14px; 
+letter-spacing: 3px;
+transition: all;
+transition-duration: 0.5s;
+background-color: inherit;
+color: #0c0f52;
+
+  }
+
+  .but:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+  }
+  
+
+  .header
+  {
+display: flex ;
+justify-content: right;
+margin-top: 30px;
+margin-right: 20px;
+  }
+
+
+
+  .body
+  {
+  background-image: url("/SS.png");
+   background-repeat: no-repeat; 
+  background-size: 100%;
+height: 100vh;
+margin: 0px;
+  padding-top: 0px;
+  }
+
+  .body1{
+
+margin: 0px; 
+
+
+  }

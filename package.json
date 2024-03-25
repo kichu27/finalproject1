@@ -1,0 +1,43 @@
+{
+  "name": "finalproject",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.4",
+    "@vercel/blob": "^0.22.0",
+    "@vercel/speed-insights": "^1.0.10",
+    "axios": "^1.6.2",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.41.1",
+    "cookies-next": "^4.1.0",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "framer-motion": "^10.16.5",
+    "google-font": "^1.0.1",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.0.0",
+    "next": "14.0.2",
+    "next-cloudinary": "^5.16.0",
+    "nodemailer": "^6.9.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.12.0",
+    "react-slick": "^0.29.0",
+    "sha256": "^0.2.0",
+    "slick-carousel": "^1.8.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2"
+  }
+}
